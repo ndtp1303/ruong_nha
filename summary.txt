@@ -1,0 +1,126 @@
+
+Gemini đã nói
+Dưới đây là nội dung được chuyển ngữ sang dạng văn bản (plain text) từ các hình ảnh dự án bạn đã cung cấp:
+
+DỰ ÁN:
+Nền tảng kết nối nông dân - chuyên gia - dữ liệu khí hậu theo từng hộ sản xuất.
+
+I. VẤN ĐỀ
+1. Vấn đề vĩ mô (macro)
+Biến đổi khí hậu làm ngập mặn, hạn hán, thời tiết cực đoan tăng mạnh.
+Nhà nước có:
+
+Bản tin dự báo
+
+Thông báo xâm nhập mặn
+
+Hướng dẫn kỹ thuật
+
+Nhưng: Thông tin mang tính vùng, không cá nhân hóa theo từng hộ.
+
+2. Vấn đề vi mô (micro)
+Ở cấp hộ nông dân:
+
+Không biết thông tin đó áp dụng cho ruộng mình thế nào.
+
+Không biết nên đổi giống, đổi mô hình hay giữ nguyên.
+
+Không có chuyên gia hỗ trợ trực tiếp.
+
+Ngại học lý thuyết dài dòng.
+
+Thiếu niềm tin vào thông tin chung chung.
+
+Suy ra: Khoảng cách lớn giữa chính sách và thực tế ruộng đồng.
+
+II. GIẢI PHÁP
+Một ứng dụng thông minh kết nối: Nông dân - Chuyên gia - Dữ liệu khí hậu.
+
+III. CÁCH HOẠT ĐỘNG
+1) Hồ sơ số cho từng hộ
+Mỗi hộ có:
+
+Diện tích
+
+Loại đất
+
+Độ mặn
+
+Lịch sử mùa vụ
+
+Sản lượng
+
+Mô hình canh tác
+=> Tạo "Profile sản xuất số".
+
+2) AI phân loại vấn đề
+Nông dân nhập:
+
+"Nước mặn 4%o"
+
+"Lúa vàng lá"
+
+"Thiếu nước"
+
+"Mất 20% sản lượng"
+
+AI sẽ:
+
+Phân loại vấn đề (mặn - sâu bệnh - dinh dưỡng - thị trường)
+
+Gợi ý hướng xử lý sơ bộ
+
+Kết nối đúng chuyên gia phù hợp
+
+Ví dụ:
+
+Mặn → chuyên gia thủy lợi
+
+Vàng lá → chuyên gia bệnh cây
+
+Mô hình lúa-tôm → chuyên gia chuyển đổi mô hình
+
+Từ đó không cần nông dân tự tìm ai.
+
+3) Tư vấn 1-1 qua app
+Gọi video
+
+Nhắn tin
+
+Gửi hình ảnh ruộng
+
+Nhận giải pháp cụ thể
+=> Giải pháp cá nhân hóa theo hộ.
+
+4) Tiện ích tích hợp
+Dự báo ngập mặn theo GPS
+
+Cảnh báo thời điểm xuống giống
+
+Gợi ý giống chịu mặn phù hợp
+
+So sánh hiệu quả mô hình
+
+Lưu trữ lịch sử mùa vụ
+
+IV. GIÁ TRỊ CỐT LÕI
+(Phần này trống trong ảnh)
+
+V. MÔ HÌNH DOANH THU (dự đoán)
+1) Phí tư vấn chuyên gia
+50.000 - 150.000 VNĐ/buổi
+
+Chuyên gia nhận 70%
+
+App giữ 30% phí nền tảng
+
+2) Gói Premium hàng tháng
+99.000 - 199.000 VNĐ/tháng
+
+Bao gồm:
+
+Cảnh báo mặn nâng cao
+
+Phân tích dữ liệu mùa vụ
+
+Ưu tiên đặt lịch chuyên gia
