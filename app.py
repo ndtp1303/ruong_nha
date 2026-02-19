@@ -56,6 +56,9 @@ st.markdown("""
         transform: translateY(-1px);
     }
 
+    .stDeployButton {display: none;}
+    [data-testid="stToolbar"] {display: none;}
+    [data-testid="stStatusWidget"] {display: none;}
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
 </style>
